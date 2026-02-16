@@ -1,0 +1,5 @@
+{
+  "name": "MuJoCo-Style Robot Sim",
+  "description": "A 12-DOF Quadruped robot simulator controlled by Gemini AI, featuring 3D visualization, inverse kinematics, and MJCF code generation.",
+  "requestFramePermissions": []
+}
