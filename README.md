@@ -29,7 +29,7 @@ To explore **Embodied AI** by prototyping how multimodal models can act as high-
 
 1.  **Clone the repo**
     ```bash
-    git clone https://github.com/yourusername/gemini-quadruped-sim.git
+    git clone https://github.com/MUHAMMAD-AZEEM-AZAM/react-robotics-lab.git
     ```
 
 2.  **Install dependencies**
